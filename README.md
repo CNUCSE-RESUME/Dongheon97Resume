@@ -5,8 +5,6 @@ I am interested in image processing. In the future, I want to study Machine Lear
 
 - 🔭 I’m studying Computer Science and Engineering at the CNU in Deajeon, Korea.
 - 🌱 I’m currently studying YoloV5, Node.js, Ocaml, React, Docker, C++(C) and image processing. 
-- this is second one.
-- ?????
 - 📫 Contact: dongheon.lee97@gmail.com
 
 <!--

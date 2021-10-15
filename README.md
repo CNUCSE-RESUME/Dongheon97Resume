@@ -7,6 +7,8 @@ I am interested in image processing. In the future, I want to study Machine Lear
 - 🌱 I’m currently studying YoloV5, Node.js, Ocaml, React, Docker, C++(C) and image processing. 
 - 📫 Contact: dongheon.lee97@gmail.com
 
+
+I dont think so
 <!--
 **Dongheon97/Dongheon97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
